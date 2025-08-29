@@ -1,0 +1,143 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=-0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=17,18,22
+BackgroundNormal=22,24,29
+DecorationFocus=60,120,255
+DecorationHover=16,166,212
+ForegroundActive=61,174,233
+ForegroundInactive=242,243,243
+ForegroundLink=41,128,185
+ForegroundNegative=167,0,3
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=55,67,80
+
+[Colors:Selection]
+BackgroundAlternate=60,120,255
+BackgroundNormal=60,120,255
+DecorationFocus=60,120,255
+DecorationHover=16,166,212
+ForegroundActive=252,252,252
+ForegroundInactive=252,253,253
+ForegroundLink=253,188,75
+ForegroundNegative=167,0,3
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=16,166,212
+ForegroundActive=61,174,233
+ForegroundInactive=242,243,243
+ForegroundLink=41,128,185
+ForegroundNegative=167,0,3
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=16,166,212
+ForegroundActive=61,174,233
+ForegroundInactive=242,243,243
+ForegroundLink=31,140,236
+ForegroundNegative=167,0,3
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Window]
+BackgroundAlternate=17,18,22
+BackgroundNormal=17,18,22
+DecorationFocus=60,120,255
+DecorationHover=16,166,212
+ForegroundActive=61,174,233
+ForegroundInactive=242,243,243
+ForegroundLink=41,128,185
+ForegroundNegative=167,0,3
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[DirSelect Dialog]
+DirSelectDialog Size=820,584
+History Items[$e]=file:$HOME/FluxAI_Projects/FluxOS-Web,file:$HOME/FluxAI_Projects,file:$HOME/FluxAI_Projects/FluxOS-Web,file:$HOME/FluxAI_Projects/FluxOS,file:$HOME/FluxAI_Projects/FluxOS-Web,file:$HOME/FluxAI_Projects/FluxOS-Installer,file:$HOME/FluxAI_Projects/FluxOS-Installer/Flux-install,file:$HOME/FluxAI_Projects/FluxOS-Installer/Flux-install,file:$HOME/flux-installer,file:$HOME/FluxAI_Projects/flux-installer/Flux-install,file:$HOME/FluxAI_Projects/CyberShield,file:$HOME/FluxAI_Projects/LexformAI
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+ColorScheme=Carl
+ColorSchemeHash=8ff306d9a93379c74540e00506966df24df1798b
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+ColorScheme=Breeze Dark
+LookAndFeelPackage=org.kde.breezedark.desktop
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=Simple
+
+[WM]
+activeBackground=17,18,22
+activeBlend=17,18,22
+activeForeground=237,240,242
+inactiveBackground=17,18,22
+inactiveBlend=17,18,22
+inactiveForeground=181,182,182

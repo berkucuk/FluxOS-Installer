@@ -1,0 +1,9 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd">
+<kpartgui name="konsoleui">
+ <MenuBar>
+  <Menu name="settings"><text>&Settings</text>
+   <Action name="configure_notifications"/>
+  </Menu>
+ </MenuBar>
+</kpartgui>
+

@@ -1,0 +1,5 @@
+[org.kde.krunner]
+_k_friendly_name=KRunner
+Activate Walk Through Outputs=none
+Run Command=Alt+Space,Alt+F2,Run Command
+
